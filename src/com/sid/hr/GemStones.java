@@ -10,6 +10,8 @@ public class GemStones {
 	public static void main(String[] args) 
 	{
 		processInput();
+		
+		
 		int counter = 0;
 		final Set<Character> s = new HashSet<Character>();
 		final char[] chars = firstString.toCharArray();
